@@ -1,0 +1,10 @@
+AAPL (XLB): beta_0=0.00, beta_SPY=1.55, beta_XLB=-0.30, Avg Cross-Val Score=0.53, First Price=172.26, Last Price=169.61, Avg Price=181.49
+AAPL (XLE): beta_0=0.00, beta_SPY=1.37, beta_XLE=-0.11, Avg Cross-Val Score=0.52, First Price=172.26, Last Price=172.39, Avg Price=184.82
+AAPL (XLF): beta_0=-0.00, beta_SPY=1.77, beta_XLF=-0.52, Avg Cross-Val Score=0.54, First Price=172.26, Last Price=167.55, Avg Price=181.90
+AAPL (XLI): beta_0=-0.00, beta_SPY=1.85, beta_XLI=-0.59, Avg Cross-Val Score=0.55, First Price=172.26, Last Price=166.32, Avg Price=180.97
+AAPL (XLK): beta_0=-0.00, beta_SPY=-0.60, beta_XLK=1.44, Avg Cross-Val Score=0.68, First Price=172.26, Last Price=161.10, Avg Price=174.02
+AAPL (XLP): beta_0=0.00, beta_SPY=1.44, beta_XLP=-0.33, Avg Cross-Val Score=0.54, First Price=172.26, Last Price=171.35, Avg Price=180.80
+AAPL (XLRE): beta_0=0.00, beta_SPY=1.33, beta_XLRE=-0.14, Avg Cross-Val Score=0.53, First Price=172.26, Last Price=175.02, Avg Price=184.39
+AAPL (XLU): beta_0=0.00, beta_SPY=1.28, beta_XLU=-0.13, Avg Cross-Val Score=0.53, First Price=172.26, Last Price=176.05, Avg Price=185.08
+AAPL (XLV): beta_0=0.00, beta_SPY=1.94, beta_XLV=-0.73, Avg Cross-Val Score=0.56, First Price=172.26, Last Price=189.20, Avg Price=189.65
+AAPL (XLY): beta_0=0.00, beta_SPY=1.25, beta_XLY=0.00, Avg Cross-Val Score=0.52, First Price=172.26, Last Price=175.38, Avg Price=185.42
